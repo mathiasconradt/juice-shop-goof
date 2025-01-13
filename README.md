@@ -1,8 +1,8 @@
 *[original Juice Shop readme](./JUICESHOP_README.md)*
 
-# Snyk's Juice Shop
+# Snyk Juice Shop
 
-This is a vulnerable by design repository for demonstrating Snyk Insights. Do not deploy this in production.
+This is a vulnerable by design repository for demonstrating Snyk Insights. Do not deploy this in production!
 
 ## Step 0: Prepare Demo Environemnt
 
